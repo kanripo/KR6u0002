@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:25.788817
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 護身命經
 #+PROPERTY: CBETA_ID T85n2866
 #+PROPERTY: ID KR6u0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2866
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0002_T_001-1326b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2866¶
-
- 護身命經¶
+No. 2866¶
+護身命經¶
 ¶
 
 者信佛妙法受習不忘。六者不貪世榮斷俗¶
